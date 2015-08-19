@@ -1,0 +1,32 @@
+#
+# A simple, old format, mime.types file
+#
+text/html		html htm
+text/xml		xml
+text/plain		txt text
+image/gif		gif GIF
+image/ief		ief
+image/jpeg		jpeg jpg jpe JPG
+image/tiff		tiff tif
+image/bmp		bmp
+image/svg+xml           svg svgz
+application/smil        smil
+audio/basic		au
+audio/midi		midi mid
+audio/x-aifc		aifc
+audio/x-aiff            aif aiff
+audio/x-mpeg		mpeg mpg
+audio/x-wav             wav
+audio/amr               amr
+audio/mp3               mp3
+audio/mp4               mp4
+audio/QCELP             qcp
+audio/SMV               smv SMV
+audio/EVRC              evc EVC
+audio/x-idenambe        vnf
+text/x-iMelody          imy
+video/quicktime		qt mov
+video/x-msvideo		avi
+video/x-motion-jpeg     mjpg
+video/mjp2              mj2 mjp2
+video/3gpp              3gp

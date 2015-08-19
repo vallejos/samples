@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd"> 
+
+<web-app>
+
+	<servlet>
+		<servlet-name>MM7PresentationSender</servlet-name>
+		<display-name>MM7PresentationSender</display-name>
+		<description>MM7 Sender Servlet Sample</description>
+		<servlet-class>com.globalnet.servlet.MM7PresentationSender</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>MM7Sender</servlet-name>
+		<display-name>MM7Sender</display-name>
+		<description>MM7 Sender Servlet Sample</description>
+		<servlet-class>com.globalnet.servlet.MM7Sender</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>MM7PhotoSender</servlet-name>
+		<display-name>MM7PhotoSender</display-name>
+		<servlet-class>com.globalnet.servlet.MM7PhotoSender</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>MM7Receiver</servlet-name>
+		<display-name>MM7Receiver</display-name>
+		<description>MM7 Receiver Servlet Sample</description>
+		<servlet-class>com.globalnet.servlet.MM7Receiver</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>ProbarManejoFiltro</servlet-name>
+		<servlet-class>com.globalnet.servlet.ProbarManejoFiltro</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>MM7PresentationSender</servlet-name>
+		<url-pattern>/MM7PresentationSender</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>MM7Sender</servlet-name>
+		<url-pattern>/MM7Sender</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>MM7PhotoSender</servlet-name>
+		<url-pattern>/MM7PhotoSender</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>MM7Receiver</servlet-name>
+		<url-pattern>/MM7Receiver</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>ProbarManejoFiltro</servlet-name>
+		<url-pattern>/ProbarManejoFiltro</url-pattern>
+	</servlet-mapping>
+</web-app>
+
