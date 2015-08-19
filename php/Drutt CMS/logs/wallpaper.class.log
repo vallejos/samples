@@ -1,0 +1,135 @@
+************************************ C O M E N Z A N D O *****************************************************************
+<82> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=23693  AND c.tipo='7'
+<247> migWallpaper::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='7', external_id='0002-WP-16636' 
+<238> migWallpaper::setFilenames
+<69> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=23694  AND c.tipo='7'
+<247> migWallpaper::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='7', external_id='0002-WP-16637' 
+<238> migWallpaper::setFilenames
+<69> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=23695  AND c.tipo='7'
+<247> migWallpaper::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='7', external_id='0002-WP-16638' 
+<238> migWallpaper::setFilenames
+<69> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=23696  AND c.tipo='7'
+<247> migWallpaper::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='7', external_id='0002-WP-16639' 
+<238> migWallpaper::setFilenames
+<69> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=23697  AND c.tipo='7'
+<247> migWallpaper::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='7', external_id='0002-WP-16640' 
+<238> migWallpaper::setFilenames
+<69> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=23698  AND c.tipo='7'
+<247> migWallpaper::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='7', external_id='0002-WP-16641' 
+<238> migWallpaper::setFilenames
+<69> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=23700  AND c.tipo='7'
+<247> migWallpaper::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='7', external_id='0002-WP-16642' 
+<238> migWallpaper::setFilenames
+<69> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=23701  AND c.tipo='7'
+<247> migWallpaper::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='7', external_id='0002-WP-16643' 
+<238> migWallpaper::setFilenames
+<69> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=23827  AND c.tipo='7'
+<247> migWallpaper::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='7', external_id='0002-WP-16644' 
+<238> migWallpaper::setFilenames
+<69> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=23828  AND c.tipo='7'
+<247> migWallpaper::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='7', external_id='0002-WP-16645' 
+<238> migWallpaper::setFilenames
+<69> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=23829  AND c.tipo='7'
+<247> migWallpaper::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='7', external_id='0002-WP-16646' 
+<238> migWallpaper::setFilenames
+<69> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=23830  AND c.tipo='7'
+<247> migWallpaper::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='7', external_id='0002-WP-16647' 
+<238> migWallpaper::setFilenames
+<69> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=23831  AND c.tipo='7'
+<247> migWallpaper::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='7', external_id='0002-WP-16648' 
+<238> migWallpaper::setFilenames
+<69> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=23832  AND c.tipo='7'
+<247> migWallpaper::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='7', external_id='0002-WP-16649' 
+<238> migWallpaper::setFilenames
+<69> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=23833  AND c.tipo='7'
+<247> migWallpaper::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='7', external_id='0002-WP-16650' 
+<238> migWallpaper::setFilenames
+<69> migWallpaper::__destruct
+************************************** F I N *****************************************************************************

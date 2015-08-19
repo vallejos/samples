@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?> <ContentSubmission>
+    <Action value="%ACTION_TYPE%" >
+        <EditionName>%OLD_EDITION_NAME%</EditionName>
+    </Action>
+     <ContentDescriptor>
+        <ContentType>midlet</ContentType>
+        <EditionName>%EDITION_NAME%</EditionName>
+        <Version>%VERSION%</Version>     
+        %TARGET_DEVICES%
+    </ContentDescriptor>
+</ContentSubmission>

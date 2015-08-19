@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<asset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <wallpaper externalId="xxxx-WP-00001">
+    <deployed>false</deployed>
+    <promotiononly>false</promotiononly>
+    <promotionkey></promotionkey>
+    <startDate>2008-12-01T00:00:00.000</startDate>
+    <validUntil>2018-12-31T00:00:00.000</validUntil>
+    <service>S-jUYvW2P1vX1</service>
+    <adult>false</adult>
+    <key>clave01</key>
+    <name>nombre</name>
+    <title>titulo</title>
+    <tag>deportes</tag>
+    <description>descripcion</description>
+    <imagepreview>
+        <variant>
+             <item uri="preview.jpg" />
+        </variant>
+    </imagepreview>
+    <image premiumResource="PremiumWallpaper">
+      <variant>
+        <item uri="smile.jpg" />
+      </variant>
+    </image>
+  </wallpaper>
+</asset>

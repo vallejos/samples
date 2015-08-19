@@ -1,0 +1,648 @@
+************************************ C O M E N Z A N D O *****************************************************************
+<82> druttVideo::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31634  AND c.tipo='62'
+<243> druttVideo::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='62', external_id='0002-VD-16494' 
+<234> druttVideo::setFilenames
+<157> druttVideo::genXML
+Generando XML para 31634
+XML Generado:
+<video externalId="0002-VD-16494">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-RyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<title>Ximena Cool and Hot</title>
+<tag>bikini</tag>
+<description>Video </description>
+<screenshot>
+<variant>
+<item uri="preview_16494.gif" />
+</variant>
+</screenshot>
+<premium3gpp premiumResource="wazzup-adultos-videos-40">
+<variant>
+<item uri="content_16494.3gp" />
+</variant>
+</premium3gpp>
+</video>
+
+<69> druttVideo::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> druttVideo::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31632  AND c.tipo='62'
+<243> druttVideo::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='62', external_id='0002-VD-16495' 
+<234> druttVideo::setFilenames
+<157> druttVideo::genXML
+Generando XML para 31632
+XML Generado:
+<video externalId="0002-VD-16495">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-RyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<title>Natalia Super Caliente</title>
+<tag>bikini</tag>
+<description>Video </description>
+<screenshot>
+<variant>
+<item uri="preview_16495.gif" />
+</variant>
+</screenshot>
+<premium3gpp premiumResource="wazzup-adultos-videos-40">
+<variant>
+<item uri="content_16495.3gp" />
+</variant>
+</premium3gpp>
+</video>
+
+<69> druttVideo::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> druttVideo::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31633  AND c.tipo='62'
+<243> druttVideo::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='62', external_id='0002-VD-16496' 
+<234> druttVideo::setFilenames
+<157> druttVideo::genXML
+Generando XML para 31633
+XML Generado:
+<video externalId="0002-VD-16496">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-RyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<title>Natalia Caliente</title>
+<tag>bikini</tag>
+<description>Video </description>
+<screenshot>
+<variant>
+<item uri="preview_16496.gif" />
+</variant>
+</screenshot>
+<premium3gpp premiumResource="wazzup-adultos-videos-40">
+<variant>
+<item uri="content_16496.3gp" />
+</variant>
+</premium3gpp>
+</video>
+
+<69> druttVideo::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> druttVideo::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31631  AND c.tipo='62'
+<243> druttVideo::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='62', external_id='0002-VD-16497' 
+<234> druttVideo::setFilenames
+<157> druttVideo::genXML
+Generando XML para 31631
+XML Generado:
+<video externalId="0002-VD-16497">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-RyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<title>Evangelina Tocandose</title>
+<tag>bikini</tag>
+<description>Video </description>
+<screenshot>
+<variant>
+<item uri="preview_16497.gif" />
+</variant>
+</screenshot>
+<premium3gpp premiumResource="wazzup-adultos-videos-40">
+<variant>
+<item uri="content_16497.3gp" />
+</variant>
+</premium3gpp>
+</video>
+
+<69> druttVideo::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> druttVideo::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31630  AND c.tipo='62'
+<243> druttVideo::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='62', external_id='0002-VD-16498' 
+<234> druttVideo::setFilenames
+<157> druttVideo::genXML
+Generando XML para 31630
+XML Generado:
+<video externalId="0002-VD-16498">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-RyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<title>Evangelina Sexy</title>
+<tag>bikini</tag>
+<description>Video </description>
+<screenshot>
+<variant>
+<item uri="preview_16498.gif" />
+</variant>
+</screenshot>
+<premium3gpp premiumResource="wazzup-adultos-videos-40">
+<variant>
+<item uri="content_16498.3gp" />
+</variant>
+</premium3gpp>
+</video>
+
+<69> druttVideo::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> druttVideo::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31629  AND c.tipo='62'
+<243> druttVideo::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='62', external_id='0002-VD-16499' 
+<234> druttVideo::setFilenames
+<157> druttVideo::genXML
+Generando XML para 31629
+XML Generado:
+<video externalId="0002-VD-16499">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-RyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<title>Evangelina Provocativa y Sexy</title>
+<tag>bikini</tag>
+<description>Video </description>
+<screenshot>
+<variant>
+<item uri="preview_16499.gif" />
+</variant>
+</screenshot>
+<premium3gpp premiumResource="wazzup-adultos-videos-40">
+<variant>
+<item uri="content_16499.3gp" />
+</variant>
+</premium3gpp>
+</video>
+
+<69> druttVideo::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> druttVideo::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31628  AND c.tipo='62'
+<243> druttVideo::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='62', external_id='0002-VD-16500' 
+<234> druttVideo::setFilenames
+<157> druttVideo::genXML
+Generando XML para 31628
+XML Generado:
+<video externalId="0002-VD-16500">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-RyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<title>Cinthia Infartante</title>
+<tag>bikini</tag>
+<description>Video </description>
+<screenshot>
+<variant>
+<item uri="preview_16500.gif" />
+</variant>
+</screenshot>
+<premium3gpp premiumResource="wazzup-adultos-videos-40">
+<variant>
+<item uri="content_16500.3gp" />
+</variant>
+</premium3gpp>
+</video>
+
+<69> druttVideo::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> druttVideo::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31627  AND c.tipo='62'
+<243> druttVideo::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='62', external_id='0002-VD-16501' 
+<234> druttVideo::setFilenames
+<157> druttVideo::genXML
+Generando XML para 31627
+XML Generado:
+<video externalId="0002-VD-16501">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-RyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<title>Cinthia Perversa</title>
+<tag>bikini</tag>
+<description>Video </description>
+<screenshot>
+<variant>
+<item uri="preview_16501.gif" />
+</variant>
+</screenshot>
+<premium3gpp premiumResource="wazzup-adultos-videos-40">
+<variant>
+<item uri="content_16501.3gp" />
+</variant>
+</premium3gpp>
+</video>
+
+<69> druttVideo::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> druttVideo::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31626  AND c.tipo='62'
+<243> druttVideo::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='62', external_id='0002-VD-16502' 
+<234> druttVideo::setFilenames
+<157> druttVideo::genXML
+Generando XML para 31626
+XML Generado:
+<video externalId="0002-VD-16502">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-RyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<title>Belen Sensual</title>
+<tag>bikini</tag>
+<description>Video </description>
+<screenshot>
+<variant>
+<item uri="preview_16502.gif" />
+</variant>
+</screenshot>
+<premium3gpp premiumResource="wazzup-adultos-videos-40">
+<variant>
+<item uri="content_16502.3gp" />
+</variant>
+</premium3gpp>
+</video>
+
+<69> druttVideo::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> druttVideo::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31626  AND c.tipo='62'
+<244> druttVideo::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='62', external_id='0002-VD-16592' 
+<235> druttVideo::setFilenames
+<158> druttVideo::genXML
+Generando XML para 31626
+XML Generado:
+<video externalId="0002-VD-16592">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-RyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<title>Belen Sensual</title>
+<tag>bikini</tag>
+<description>Video </description>
+<screenshot>
+<variant>
+<item uri="preview_16592.gif" />
+</variant>
+</screenshot>
+<premium3gpp premiumResource="wazzup-adultos-videos-40">
+<variant>
+<item uri="content_16592.3gp" />
+</variant>
+</premium3gpp>
+</video>
+
+<69> druttVideo::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> druttVideo::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31627  AND c.tipo='62'
+<244> druttVideo::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='62', external_id='0002-VD-16593' 
+<235> druttVideo::setFilenames
+<158> druttVideo::genXML
+Generando XML para 31627
+XML Generado:
+<video externalId="0002-VD-16593">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-RyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<title>Cinthia Perversa</title>
+<tag>bikini</tag>
+<description>Video </description>
+<screenshot>
+<variant>
+<item uri="preview_16593.gif" />
+</variant>
+</screenshot>
+<premium3gpp premiumResource="wazzup-adultos-videos-40">
+<variant>
+<item uri="content_16593.3gp" />
+</variant>
+</premium3gpp>
+</video>
+
+<69> druttVideo::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> druttVideo::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31628  AND c.tipo='62'
+<244> druttVideo::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='62', external_id='0002-VD-16594' 
+<235> druttVideo::setFilenames
+<158> druttVideo::genXML
+Generando XML para 31628
+XML Generado:
+<video externalId="0002-VD-16594">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-RyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<title>Cinthia Infartante</title>
+<tag>bikini</tag>
+<description>Video </description>
+<screenshot>
+<variant>
+<item uri="preview_16594.gif" />
+</variant>
+</screenshot>
+<premium3gpp premiumResource="wazzup-adultos-videos-40">
+<variant>
+<item uri="content_16594.3gp" />
+</variant>
+</premium3gpp>
+</video>
+
+<69> druttVideo::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> druttVideo::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31629  AND c.tipo='62'
+<244> druttVideo::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='62', external_id='0002-VD-16595' 
+<235> druttVideo::setFilenames
+<158> druttVideo::genXML
+Generando XML para 31629
+XML Generado:
+<video externalId="0002-VD-16595">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-RyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<title>Evangelina Provocativa y Sexy</title>
+<tag>bikini</tag>
+<description>Video </description>
+<screenshot>
+<variant>
+<item uri="preview_16595.gif" />
+</variant>
+</screenshot>
+<premium3gpp premiumResource="wazzup-adultos-videos-40">
+<variant>
+<item uri="content_16595.3gp" />
+</variant>
+</premium3gpp>
+</video>
+
+<69> druttVideo::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> druttVideo::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31630  AND c.tipo='62'
+<244> druttVideo::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='62', external_id='0002-VD-16596' 
+<235> druttVideo::setFilenames
+<158> druttVideo::genXML
+Generando XML para 31630
+XML Generado:
+<video externalId="0002-VD-16596">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-RyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<title>Evangelina Sexy</title>
+<tag>bikini</tag>
+<description>Video </description>
+<screenshot>
+<variant>
+<item uri="preview_16596.gif" />
+</variant>
+</screenshot>
+<premium3gpp premiumResource="wazzup-adultos-videos-40">
+<variant>
+<item uri="content_16596.3gp" />
+</variant>
+</premium3gpp>
+</video>
+
+<69> druttVideo::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> druttVideo::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31631  AND c.tipo='62'
+<244> druttVideo::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='62', external_id='0002-VD-16597' 
+<235> druttVideo::setFilenames
+<158> druttVideo::genXML
+Generando XML para 31631
+XML Generado:
+<video externalId="0002-VD-16597">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-RyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<title>Evangelina Tocandose</title>
+<tag>bikini</tag>
+<description>Video </description>
+<screenshot>
+<variant>
+<item uri="preview_16597.gif" />
+</variant>
+</screenshot>
+<premium3gpp premiumResource="wazzup-adultos-videos-40">
+<variant>
+<item uri="content_16597.3gp" />
+</variant>
+</premium3gpp>
+</video>
+
+<69> druttVideo::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> druttVideo::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31632  AND c.tipo='62'
+<244> druttVideo::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='62', external_id='0002-VD-16598' 
+<235> druttVideo::setFilenames
+<158> druttVideo::genXML
+Generando XML para 31632
+XML Generado:
+<video externalId="0002-VD-16598">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-RyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<title>Natalia Super Caliente</title>
+<tag>bikini</tag>
+<description>Video </description>
+<screenshot>
+<variant>
+<item uri="preview_16598.gif" />
+</variant>
+</screenshot>
+<premium3gpp premiumResource="wazzup-adultos-videos-40">
+<variant>
+<item uri="content_16598.3gp" />
+</variant>
+</premium3gpp>
+</video>
+
+<69> druttVideo::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> druttVideo::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31633  AND c.tipo='62'
+<244> druttVideo::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='62', external_id='0002-VD-16599' 
+<235> druttVideo::setFilenames
+<158> druttVideo::genXML
+Generando XML para 31633
+XML Generado:
+<video externalId="0002-VD-16599">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-RyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<title>Natalia Caliente</title>
+<tag>bikini</tag>
+<description>Video </description>
+<screenshot>
+<variant>
+<item uri="preview_16599.gif" />
+</variant>
+</screenshot>
+<premium3gpp premiumResource="wazzup-adultos-videos-40">
+<variant>
+<item uri="content_16599.3gp" />
+</variant>
+</premium3gpp>
+</video>
+
+<69> druttVideo::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<82> druttVideo::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31634  AND c.tipo='62'
+<244> druttVideo::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='62', external_id='0002-VD-16600' 
+<235> druttVideo::setFilenames
+<158> druttVideo::genXML
+Generando XML para 31634
+XML Generado:
+<video externalId="0002-VD-16600">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-RyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<title>Ximena Cool and Hot</title>
+<tag>bikini</tag>
+<description>Video </description>
+<screenshot>
+<variant>
+<item uri="preview_16600.gif" />
+</variant>
+</screenshot>
+<premium3gpp premiumResource="wazzup-adultos-videos-40">
+<variant>
+<item uri="content_16600.3gp" />
+</variant>
+</premium3gpp>
+</video>
+
+<69> druttVideo::__destruct
+************************************** F I N *****************************************************************************

@@ -1,0 +1,12 @@
+  <handset>
+    <device>
+      <ua>%UA%</ua>
+      <file>%FILE_JAR%</file>
+      <file>%FILE_JAD%</file>
+      <screenshots>
+        <file>WildWestTycoon_96x96.jpg</file>
+        <file>WildWestTycoon_50x50.gif</file>
+        <file>WildWestTycoon_96x96.gif</file>
+      </screenshots>
+    </device>
+  </handset>

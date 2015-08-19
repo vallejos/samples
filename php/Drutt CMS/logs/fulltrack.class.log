@@ -1,0 +1,75 @@
+************************************ C O M E N Z A N D O *****************************************************************
+<85> druttFulltrack::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, ft.al_titulo album, ft.al_artista artista, ft.al_id, ft.tr_archivo, ft.tr_archivo_preview, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) INNER JOIN Web.fulltracks ft ON (ft.contenido=c.id) WHERE c.id=30987  AND c.tipo='26'
+<253> druttFulltrack::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='26', external_id='0002-FT-16489' 
+<244> druttFulltrack::setFilenames
+<72> druttFulltrack::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<85> druttFulltrack::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, ft.al_titulo album, ft.al_artista artista, ft.al_id, ft.tr_archivo, ft.tr_archivo_preview, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) INNER JOIN Web.fulltracks ft ON (ft.contenido=c.id) WHERE c.id=30987  AND c.tipo='26'
+<253> druttFulltrack::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='26', external_id='0002-FT-16490' 
+<244> druttFulltrack::setFilenames
+<72> druttFulltrack::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<85> druttFulltrack::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, ft.al_titulo album, ft.al_artista artista, ft.al_id, ft.tr_archivo, ft.tr_archivo_preview, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) INNER JOIN Web.fulltracks ft ON (ft.contenido=c.id) WHERE c.id=30987  AND c.tipo='26'
+<253> druttFulltrack::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='26', external_id='0002-FT-16491' 
+<244> druttFulltrack::setFilenames
+<72> druttFulltrack::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<85> druttFulltrack::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, ft.al_titulo album, ft.al_artista artista, ft.al_id, ft.tr_archivo, ft.tr_archivo_preview, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) INNER JOIN Web.fulltracks ft ON (ft.contenido=c.id) WHERE c.id=30987  AND c.tipo='26'
+<257> druttFulltrack::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='26', external_id='0002-FT-16492' 
+<248> druttFulltrack::setFilenames
+<72> druttFulltrack::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<85> druttFulltrack::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, ft.al_titulo album, ft.al_artista artista, ft.al_id, ft.tr_archivo, ft.tr_archivo_preview, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) INNER JOIN Web.fulltracks ft ON (ft.contenido=c.id) WHERE c.id=30987  AND c.tipo='26'
+<257> druttFulltrack::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='26', external_id='0002-FT-16493' 
+<248> druttFulltrack::setFilenames
+<168> druttFulltrack::genXML
+Generando XML para 30987
+XML Generado:
+<fulltrack externalId="0002-FT-16493">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-LyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<title>The Forgotten kingdom</title>
+<artist>The Forgotten Kingdom</artist>
+<tag>oldhits</tag>
+<album></album>
+<publicationYear>2010</publicationYear>
+<description>Contenido </description>
+<fulltrackPrelisten>
+<variant>
+<item uri="preview_16493.mp3" />
+</variant>
+</fulltrackPrelisten>
+<fulltrackPremium premiumResource="wazzup-adultos-fulltracks-40">
+<variant>
+<item uri="content_16493.mp3" />
+</variant>
+</fulltrackPremium>
+</fulltrack>
+
+<72> druttFulltrack::__destruct
+************************************** F I N *****************************************************************************

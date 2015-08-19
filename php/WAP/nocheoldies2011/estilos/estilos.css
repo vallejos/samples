@@ -1,0 +1,48 @@
+body { background-color: #EFEDEE; margin: 0 auto; color: #000000; font-family: Arial; font-size: 10px; }
+a { font-size:10px; color:#000000; font-weight:normal !important; }
+a img {border: 2px solid #BBBAB6;}
+
+.align_left { text-align: left;  }
+.align_right { text-align: right; }
+.align_center { text-align: center; }
+.seccion { padding: 5px 0px; clear:both; overflow:hidden; }
+.titulo-seccion a {}
+.borde-izq-sec {}
+.borde-der-sec {}
+.contenedor-titulo { width:100%;}
+.titulo-seccion {
+  background-color: #C91197;
+  text-align: center;
+  color:#FFFFFF;
+  padding: 3px;  
+  width: #ANCHO_PANTALLA#px;
+  font-weight: bold;
+  margin:0px auto;
+  background-image: url(images/bullet_2.gif);
+  background-position:1% 50%;
+  background-repeat:no-repeat; 
+}
+.titulo-seccion td {padding-left:20px; height:20px; } /*compatibilidad con
+el Mot-V3*/
+
+.texto_center {text-align:center; }
+.link_mas_juegos  {display:block; background-color:#80943b; font-weight:bold;font-size:14px;}
+.texto_small {font-size:12px;}
+
+/* para las listas 2x2 */
+
+.list-item { float:left; width: 60px; margin:7px 10px 0 10px; }
+.item-par {float:none; width:inherit;padding:5px;}
+.item-impar {float:none; width:inherit; padding:5px;}
+.menu-item { color: #262223; padding-bottom: 3px; padding-top:0px; margin:0px auto; font-size: 10px;}
+.clear {clear:both;}
+.lista-links { margin: 0px auto; font-weight:bold; color:#262223; width: #ANCHO_PANTALLA#px;}
+#bloque-central { text-align:center;  background-color:#EFEDEE; margin:0 auto;}
+#titulo-pagina { margin: 2px auto; background-color: #731000; border: 1px solid #731000; color:#cecfce; font-size: 12px; text-align:center; font-weight:bold; }
+#bloque-secciones { text-align:left; font-size:12px; padding:5px; }
+#paginado {  font-size:10px;padding:4px; margin:2px; text-align: center; margin-top:3px; color:#262223}
+#pie-movistar { text-align: center; background-color:#FFFFFF;}
+#banner-pagina{  padding:0px; margin:0px; }
+#logos-abajo {text-align:center; margin:10px auto; clear:both;}
+.banner {margin:3px auto; text-align:center; padding:0px;   width:100%; display:block;}
+.banner-fondo { background-image: url(images/bck_cabezal_artista.gif); background-repeat:repeat-x}

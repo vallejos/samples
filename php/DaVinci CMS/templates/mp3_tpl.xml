@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mp3>
+  <name>Bacanal De-Saens</name>
+  <provider>Disco Fuentes Edimusica SA</provider>
+  <royalty>Disco Fuentes Edimusica SA</royalty>
+  <cat>Spanish Tones</cat>
+  <subcat>Classica</subcat>
+  <operator>
+  </operator>
+  <searchkeywords>Bacanal De Sa..</searchkeywords>
+  <musiclabel>Disco Fuentes Edimusica SA</musiclabel>
+  <movie>Clasica</movie>
+  <album>Clasica</album>
+  <artist>Camilo Saint,..</artist>
+  <code>00012</code>
+  <cla>
+  </cla>
+  <expirydate>
+  </expirydate>
+  <activatedate>
+  </activatedate>
+  <webpreview>
+    <file>S_Bacanal_webpreview.wma</file>
+  </webpreview>
+  <wappreview>
+    <file>S_Bacanal_S.mp3</file>
+    <file>S_Bacanal.wma</file>
+    <file>S_Bacanal_prev.mp3</file>
+    <file>S_Bacanal_webpreview.wma</file>
+  </wappreview>
+  <objects>
+    <file>S_Bacanal.mp3</file>
+  </objects>  
+</mp3>

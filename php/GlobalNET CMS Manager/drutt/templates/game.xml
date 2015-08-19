@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<asset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <javagame externalId="xxxx-JG-00001">
+    <deployed>false</deployed>
+    <promotiononly>false</promotiononly>
+    <promotionkey></promotionkey>
+    <startDate>2008-12-01T00:00:00.000</startDate>
+    <validUntil>2018-12-31T00:00:00.000</validUntil>
+    <service>S-jUYvW2P1vX1</service>
+    <adult>false</adult>
+    <key>clave01</key>
+    <name>nombre del juego</name>
+    <category>accion</category>
+    <description>descripcion del juego</description>
+    <multiplayer>false</multiplayer>
+    <manufacturer>quien lo hizo</manufacturer>
+    <pubYear>2009</pubYear>
+    <screenshot>
+        <variant>
+             <item uri="god_of_war-preview.jpg" />
+        </variant>
+    </screenshot>
+    <game premiumResource="Java Game Download">
+      <variant>
+        <device>sonyericsson_k850_drutt</device>
+        <jar uri="god_of_war.jar" />
+        <jad uri="god_of_war.jad" />
+      </variant>
+    </game>
+  </javagame>
+</asset>

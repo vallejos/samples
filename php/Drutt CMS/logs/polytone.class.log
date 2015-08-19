@@ -1,0 +1,924 @@
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=31647 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16488' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 31647
+XML Generado:
+<polyphonic externalId="0002-PT-16488">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>El Amor</title>
+<tag>reggaeton</tag>
+<artist>Tito El Bambino</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16488.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="universal-ringtones">
+<variant>
+<item uri="content4_16488.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="universal-ringtones">
+<variant>
+<item uri="content4c_16488.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=30292 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16684' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 30292
+XML Generado:
+<polyphonic externalId="0002-PT-16684">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>She Will Be Loved</title>
+<tag>rock</tag>
+<artist>Maroon 5</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16684.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16684.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16684.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=30291 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16685' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 30291
+XML Generado:
+<polyphonic externalId="0002-PT-16685">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>Nothing Else Matters</title>
+<tag>rock</tag>
+<artist>Metallica</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16685.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16685.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16685.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=30290 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16686' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 30290
+XML Generado:
+<polyphonic externalId="0002-PT-16686">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>It&#180;s my Life</title>
+<tag>rock</tag>
+<artist>Bon Jovi</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16686.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16686.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16686.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=29908 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16687' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 29908
+XML Generado:
+<polyphonic externalId="0002-PT-16687">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>Luz y Compania</title>
+<tag>rock</tag>
+<artist>Fidel Nadal</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16687.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16687.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16687.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=30287 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16688' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 30287
+XML Generado:
+<polyphonic externalId="0002-PT-16688">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>Donde Estas</title>
+<tag>cumbia</tag>
+<artist>18 Kilates</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16688.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16688.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16688.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=29911 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16689' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 29911
+XML Generado:
+<polyphonic externalId="0002-PT-16689">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>Sentate En El Pinocho</title>
+<tag>cumbia</tag>
+<artist>Jacobo Winograd</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16689.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16689.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16689.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=29909 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16690' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 29909
+XML Generado:
+<polyphonic externalId="0002-PT-16690">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>No es mi culpa</title>
+<tag>cumbia</tag>
+<artist>Mc Caco</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16690.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16690.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16690.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=29906 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16691' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 29906
+XML Generado:
+<polyphonic externalId="0002-PT-16691">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>Hazme Olvidarla</title>
+<tag>cumbia</tag>
+<artist>El Polaco</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16691.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16691.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16691.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=29905 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16692' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 29905
+XML Generado:
+<polyphonic externalId="0002-PT-16692">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>El camion</title>
+<tag>cumbia</tag>
+<artist>El Perro</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16692.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16692.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16692.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=30212 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16693' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 30212
+XML Generado:
+<polyphonic externalId="0002-PT-16693">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>Pijamas</title>
+<tag>pop</tag>
+<artist>Babasonicos</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16693.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16693.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16693.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=30210 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16694' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 30210
+XML Generado:
+<polyphonic externalId="0002-PT-16694">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>Una Guitarra Y Una Muchacha</title>
+<tag>pop</tag>
+<artist>Sandro</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16694.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16694.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16694.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=30211 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16695' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 30211
+XML Generado:
+<polyphonic externalId="0002-PT-16695">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>Esta Vez</title>
+<tag>pop</tag>
+<artist>Cafe Tacuba</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16695.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16695.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16695.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=30209 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16696' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 30209
+XML Generado:
+<polyphonic externalId="0002-PT-16696">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>Se Te Nota</title>
+<tag>pop</tag>
+<artist>Sandro</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16696.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16696.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16696.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=30208 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16697' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 30208
+XML Generado:
+<polyphonic externalId="0002-PT-16697">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>Rosa Rosa</title>
+<tag>pop</tag>
+<artist>Sandro</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16697.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16697.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16697.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=30207 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16698' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 30207
+XML Generado:
+<polyphonic externalId="0002-PT-16698">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>Porque Yo Te Amo</title>
+<tag>pop</tag>
+<artist>Sandro</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16698.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16698.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16698.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=30206 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16699' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 30206
+XML Generado:
+<polyphonic externalId="0002-PT-16699">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>Penumbras</title>
+<tag>pop</tag>
+<artist>Sandro</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16699.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16699.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16699.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=30205 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16700' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 30205
+XML Generado:
+<polyphonic externalId="0002-PT-16700">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>El Maniqui</title>
+<tag>pop</tag>
+<artist>Sandro</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16700.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16700.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16700.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=29767 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16701' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 29767
+XML Generado:
+<polyphonic externalId="0002-PT-16701">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>Cada Que</title>
+<tag>pop</tag>
+<artist>Belanova</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16701.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16701.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16701.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=29863 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16702' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 29863
+XML Generado:
+<polyphonic externalId="0002-PT-16702">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>Feeling</title>
+<tag>pop</tag>
+<artist>Jerau</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16702.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16702.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16702.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<88> druttPolytone::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) WHERE c.id=29864 AND c.tipo='29'
+<271> druttPolytone::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='29', external_id='0002-PT-16703' 
+<262> druttPolytone::setFilenames
+<177> druttPolytone::genXML
+Generando XML para 29864
+XML Generado:
+<polyphonic externalId="0002-PT-16703">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-NyCo1sKAIlV</service>
+<adult>false</adult>
+<key></key>
+<album></album>
+<title>Eres</title>
+<tag>pop</tag>
+<artist>Cafe Tacuba</artist>
+<publicationYear>2010</publicationYear>
+<description>Sonido Polifonico </description>
+<polyphonicGT4Prelisten>
+<variant>
+<item uri="preview_16703.mid" />
+</variant>
+</polyphonicGT4Prelisten>
+<polyphonicGT4Premium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4_16703.mid" />
+</variant>
+</polyphonicGT4Premium>
+<polyphonic4cPremium premiumResource="wazzup-ringtones">
+<variant>
+<item uri="content4c_16703.mid" />
+</variant>
+</polyphonic4cPremium>
+</polyphonic>
+
+<75> druttPolytone::__destruct
+************************************** F I N *****************************************************************************

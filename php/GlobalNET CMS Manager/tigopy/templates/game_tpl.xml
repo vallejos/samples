@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game>
+  <name>%NOMBRE_CONTENIDO%</name>
+  <type>%TYPE%</type>
+  <provider>%PROVEEDOR%</provider>
+  <cat>%CATEGORIA%</cat>
+  <subcat>%SUBCATEGORIA%</subcat>
+  <code>%CODE%</code>
+  <operator>%OPERATOR%</operator>
+  <searchkeywords>%SEARCH_KEYWORDS%</searchkeywords>
+  <cls>%CLS%</cls>
+  <shortdesc>%SHORTDESC%</shortdesc>
+  <longdesc>%LONGDESC%
+  </longdesc>
+  <webpreview>
+  %WEB_PREVIEW%
+  </webpreview>
+  <wappreview>
+  %WAP_PREVIEW%
+  </wappreview>
+  %HANDSETS%
+</game>

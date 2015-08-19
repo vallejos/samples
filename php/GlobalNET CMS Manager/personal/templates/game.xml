@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?> <ContentSubmission>
+    <Action value="%ACTION_TYPE%" />
+     <ContentDescriptor>
+        <ContentType>midlet</ContentType>
+        <EditionName>%EDITION_NAME%</EditionName>
+        <Version>%VERSION%</Version>
+        <Preview>
+            <Wap>
+                %PREVIEWS_WAP%
+            </Wap>
+            <Web>
+                %PREVIEWS_WEB%
+            </Web>
+        </Preview>
+        %TARGET_DEVICES%
+    </ContentDescriptor>
+    <WebDescriptor>
+        %CATEGORIAS%
+        <DeveloperContentId>%DEVELOPER_CONTENT_ID%</DeveloperContentId>
+        <WebGroup>
+            <DisplayName>%DISPLAY_NAME%</DisplayName>
+            <ShortDescription>%SHORT_DESC%</ShortDescription>
+            <LongDescription>%LONG_DESC%</LongDescription>
+            %ICONS%
+        </WebGroup>
+    </WebDescriptor>
+</ContentSubmission>

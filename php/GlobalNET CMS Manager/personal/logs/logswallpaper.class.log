@@ -1,0 +1,1508 @@
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<84> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<171> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<71> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<86> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<173> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<73> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<87> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<174> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<74> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<91> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<178> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<78> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<91> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<178> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<78> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<91> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<178> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<78> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<91> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<178> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<78> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<91> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<178> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<78> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<91> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<178> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<78> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<91> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<178> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<78> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<91> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<178> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<78> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<91> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<178> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<78> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<91> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<178> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<78> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<91> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<178> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<78> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<91> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<178> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<78> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<91> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32323  AND c.tipo='7'
+<178> migWallpaper::genXML
+Generando XML para 32323
+XML Generado:
+
+<78> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<91> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32324  AND c.tipo='7'
+<178> migWallpaper::genXML
+Generando XML para 32324
+XML Generado:
+
+<78> migWallpaper::__destruct
+************************************** F I N *****************************************************************************
+************************************ C O M E N Z A N D O *****************************************************************
+<91> migWallpaper::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, cc.xxx, cp.nombre provider FROM Web.contenidos c
+                        INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria)
+                        INNER JOIN Web.contenidos_proveedores cp ON (c.proveedor = cp.id)
+                        WHERE c.id=32325  AND c.tipo='7'
+<178> migWallpaper::genXML
+Generando XML para 32325
+XML Generado:
+
+<78> migWallpaper::__destruct
+************************************** F I N *****************************************************************************

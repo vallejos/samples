@@ -1,0 +1,44 @@
+10
+
+dir
+8
+http://10.0.0.250/svn/globalnet/trunk/QR%20App
+http://10.0.0.250/svn/globalnet
+
+
+
+2011-10-27T14:50:18.934349Z
+8
+kamus
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3f05692b-daf8-4c26-95e6-7991e0231ba6
+
+
+
+
+
+
+0
+
+batch
+dir
+
+lib
+dir
+
+nbproject
+dir
+

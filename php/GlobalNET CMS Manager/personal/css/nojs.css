@@ -1,0 +1,19 @@
+/* show content in tabs */
+div.panes div {
+  display: block;
+}
+
+/* hide original tabs */
+ul.hidenojs {
+  display:none;
+}
+
+/* hide link in exports regulations */
+.read-more { display: none; }
+
+/* show link in formats section */
+.learn-more { display: block; }
+
+/* let's ensure this get displayed */
+.shownojs { display: block; }
+

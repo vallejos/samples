@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<video>
+      <type>%TYPE%</type>
+      <name>%NOMBRE_CONTENIDO%</name>
+      <provider>%PROVEEDOR%</provider>
+      <cat>%CATEGORIA%</cat>
+  <subcat>%SUBCATEGORIA%</subcat>
+  <code>%CODE%</code>
+  <operator>%OPERATOR%</operator>
+      <searchkeywords>%SEARCH_KEYWORDS%</searchkeywords>
+  <royalty>%ROYALTY%</royalty>
+  <musiclabel>%MUSICLABEL%</musiclabel>
+  <album>%ALBUM%</album>
+  <artist>%ARTISTA%</artist>
+  <movie>%MOVIE%</movie>
+  <wappreview>
+  %WAP_PREVIEW%
+  </wappreview>
+  <webpreview>
+%WEB_PREVIEW%
+  </webpreview>
+  <objects>
+  %OBJECTS%
+  </objects>
+</video>

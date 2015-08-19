@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<poly>
+  <name>Contestacion A La-Armando Zabaleta</name>
+  <provider>Disco Fuentes Edimusica SA</provider>
+  <royalty>Disco Fuentes Edimusica SA</royalty>
+  <cat>Spanish Tunes</cat>
+  <subcat>Vallenato</subcat>
+  <code>179244</code>
+  <operator>
+  </operator>
+  <searchkeywords>Contestacion A La Brasilera,Armando Zabaleta,Spanish,Vallenato</searchkeywords>
+  <musiclabel>Disco Fuentes Edimusica SA</musiclabel>
+  <movie>Vallenato</movie>
+  <album>Vallenato</album>
+  <artist>Armando Zabaleta</artist>
+  <providercode>
+  </providercode>
+  <cla>
+  </cla>
+  <expirydate>
+  </expirydate>
+  <activatedate>
+  </activatedate>
+  <webpreview>
+    <file>S_Contesta_webpreview.wma</file>
+    <file>S_Contesta_prev.mid</file>
+  </webpreview>
+  <objects>
+    <file>S_Contesta_4trk.mid</file>
+    <file>S_Contesta.mmf</file>
+  </objects>  
+</poly>

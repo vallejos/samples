@@ -1,0 +1,206 @@
+************************************ C O M E N Z A N D O *****************************************************************
+<86> druttGame::loadContent
+SQL: SELECT c.*, cc.descripcion nombreCat, gi.screenshots, cp.nombre manufacturer FROM Web.contenidos c INNER JOIN Web.contenidos_cat cc ON (cc.id=c.categoria) INNER JOIN Web.gamesInfo gi ON (gi.game=c.id) INNER JOIN Web.contenidos_proveedores cp ON (cp.id=c.proveedor) WHERE c.id=20175  AND c.tipo='31'
+<269> druttGame::setExternalId
+SQL: SELECT MAX(id) lastId FROM admins.ancel_drutt 
+SQL: INSERT INTO admins.ancel_drutt SET time=CURTIME(), date=CURDATE(), type='31', external_id='0002-JG-16486' 
+<263> druttGame::setFilenames
+<180> druttGame::genXML
+Generando XML para 20175
+XML Generado:
+<javagame externalId="0002-JG-16486">
+<deployed>false</deployed>
+<promotiononly>false</promotiononly>
+<promotionkey></promotionkey>
+<startDate>2008-12-01T00:00:00.000</startDate>
+<validUntil>2099-12-31T00:00:00.000</validUntil>
+<service>S-MyCo1sKAIlV</service>
+<adult>true</adult>
+<key></key>
+<name>Leo Messi - Goal</name>
+<category>deportes</category>
+<description>Juego java </description>
+<multiplayer>false</multiplayer>
+<manufacturer>Artificial Life</manufacturer>
+<pubYear>2010</pubYear>
+<screenshot>
+<variant>
+<item uri="preview_16486.gif" />
+</variant>
+</screenshot>
+<game premiumResource="wazzup-juegos">
+<variant>
+<device>vodafone_710_drutt</device>
+<jar uri="content_16486_0.jar" />
+<jad uri="content_16486_0.jad" />
+</variant>
+<variant>
+<device>huawei_u636_drutt</device>
+<jar uri="content_16486_1.jar" />
+<jad uri="content_16486_1.jad" />
+</variant>
+<variant>
+<device>lg_u8500_drutt</device>
+<jar uri="content_16486_2.jar" />
+<jad uri="content_16486_2.jad" />
+</variant>
+<variant>
+<device>motorola_e680i_drutt</device>
+<jar uri="content_16486_3.jar" />
+<jad uri="content_16486_3.jad" />
+</variant>
+<variant>
+<device>lg_kg225_drutt</device>
+<jar uri="content_16486_4.jar" />
+<jad uri="content_16486_4.jad" />
+</variant>
+<variant>
+<device>lg_kg800_drutt</device>
+<jar uri="content_16486_5.jar" />
+<jad uri="content_16486_5.jad" />
+</variant>
+<variant>
+<device>motorola_c290_drutt</device>
+<jar uri="content_16486_6.jar" />
+<jad uri="content_16486_6.jad" />
+</variant>
+<variant>
+<device>lg_ku990_drutt</device>
+<jar uri="content_16486_7.jar" />
+<jad uri="content_16486_7.jad" />
+</variant>
+<variant>
+<device>motorola_v1050_drutt</device>
+<jar uri="content_16486_8.jar" />
+<jad uri="content_16486_8.jad" />
+</variant>
+<variant>
+<device>motorola_v690_drutt</device>
+<jar uri="content_16486_9.jar" />
+<jad uri="content_16486_9.jad" />
+</variant>
+<variant>
+<device>motorola_w380_drutt</device>
+<jar uri="content_16486_10.jar" />
+<jad uri="content_16486_10.jad" />
+</variant>
+<variant>
+<device>motorola_v300_drutt</device>
+<jar uri="content_16486_11.jar" />
+<jad uri="content_16486_11.jad" />
+</variant>
+<variant>
+<device>nokia_5000_drutt</device>
+<jar uri="content_16486_12.jar" />
+<jad uri="content_16486_12.jad" />
+</variant>
+<variant>
+<device>motorola_z3_drutt</device>
+<jar uri="content_16486_13.jar" />
+<jad uri="content_16486_13.jad" />
+</variant>
+<variant>
+<device>nokia_7600_drutt</device>
+<jar uri="content_16486_14.jar" />
+<jad uri="content_16486_14.jad" />
+</variant>
+<variant>
+<device>nokia_6230i_drutt</device>
+<jar uri="content_16486_15.jar" />
+<jad uri="content_16486_15.jad" />
+</variant>
+<variant>
+<device>nokia_7260_drutt</device>
+<jar uri="content_16486_16.jar" />
+<jad uri="content_16486_16.jad" />
+</variant>
+<variant>
+<device>nokia_8600_drutt</device>
+<jar uri="content_16486_17.jar" />
+<jad uri="content_16486_17.jad" />
+</variant>
+<variant>
+<device>nokia_7650_drutt</device>
+<jar uri="content_16486_18.jar" />
+<jad uri="content_16486_18.jad" />
+</variant>
+<variant>
+<device>nokia_e71_drutt</device>
+<jar uri="content_16486_19.jar" />
+<jad uri="content_16486_19.jad" />
+</variant>
+<variant>
+<device>nokia_6682_drutt</device>
+<jar uri="content_16486_20.jar" />
+<jad uri="content_16486_20.jad" />
+</variant>
+<variant>
+<device>nokia_6110_drutt</device>
+<jar uri="content_16486_21.jar" />
+<jad uri="content_16486_21.jad" />
+</variant>
+<variant>
+<device>nokia_8800_drutt</device>
+<jar uri="content_16486_22.jar" />
+<jad uri="content_16486_22.jad" />
+</variant>
+<variant>
+<device>nokia_n90_drutt</device>
+<jar uri="content_16486_23.jar" />
+<jad uri="content_16486_23.jad" />
+</variant>
+<variant>
+<device>samsung_d800_drutt</device>
+<jar uri="content_16486_24.jar" />
+<jad uri="content_16486_24.jad" />
+</variant>
+<variant>
+<device>samsung_e350_drutt</device>
+<jar uri="content_16486_25.jar" />
+<jad uri="content_16486_25.jad" />
+</variant>
+<variant>
+<device>samsung_z107_drutt</device>
+<jar uri="content_16486_26.jar" />
+<jad uri="content_16486_26.jad" />
+</variant>
+<variant>
+<device>samsung_z110_drutt</device>
+<jar uri="content_16486_27.jar" />
+<jad uri="content_16486_27.jad" />
+</variant>
+<variant>
+<device>samsung_zv10_drutt</device>
+<jar uri="content_16486_28.jar" />
+<jad uri="content_16486_28.jad" />
+</variant>
+<variant>
+<device>sanyo_mm5600_drutt</device>
+<jar uri="content_16486_29.jar" />
+<jad uri="content_16486_29.jad" />
+</variant>
+<variant>
+<device>sanyo_mm9000_drutt</device>
+<jar uri="content_16486_30.jar" />
+<jad uri="content_16486_30.jad" />
+</variant>
+<variant>
+<device>sharp_770sh_drutt</device>
+<jar uri="content_16486_31.jar" />
+<jad uri="content_16486_31.jad" />
+</variant>
+<variant>
+<device>zte_f152_drutt</device>
+<jar uri="content_16486_32.jar" />
+<jad uri="content_16486_32.jad" />
+</variant>
+<variant>
+<device>zte_f850_drutt</device>
+<jar uri="content_16486_33.jar" />
+<jad uri="content_16486_33.jad" />
+</variant>
+</game>
+</javagame>
+
+<73> druttGame::__destruct
+************************************** F I N *****************************************************************************

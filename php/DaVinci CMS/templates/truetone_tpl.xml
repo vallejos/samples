@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<true>
+  <name>%NAME%</name>
+  <provider>%PROVIDER%</provider>
+  <royalty>%ROYALTY%</royalty>
+  <cat>%CAT%</cat>
+  <subcat>%SUBCAT%</subcat>
+  <code>%CODE%</code>
+  <operator>%OPERATOR%</operator>
+  <searchkeywords>%SEARCHKEYWORDS%</searchkeywords>
+  <musiclabel>%MUSICLABEL%</musiclabel>
+  <movie>%MOVIE%</movie>
+  <album>%ALBUM%</album>
+  <artist>%ARTIST%</artist>
+  <webpreview>
+    %FILE_WEBPREVIEW%
+  </webpreview>
+  <wappreview>
+    %FILE_WAPPREVIEW%
+  </wappreview>
+  <objects>
+    %FILE_OBJECTS%
+  </objects>
+</true>

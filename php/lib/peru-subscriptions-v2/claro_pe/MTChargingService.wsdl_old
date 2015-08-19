@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+	xmlns:ctp="http://ws.cgw.tecnotree.com/CGType" xmlns:tns="http://ws.cgw.tecnotree.com/MTChargingService/"
+	xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	name="MTChargingService" targetNamespace="http://ws.cgw.tecnotree.com/MTChargingService/">
+	<wsdl:types>
+		<xsd:schema targetNamespace="http://ws.cgw.tecnotree.com/MTChargingService/"
+			xmlns:ctp="http://ws.cgw.tecnotree.com/CGType">
+			<xsd:import namespace="http://ws.cgw.tecnotree.com/CGType"
+				schemaLocation="CGType.xsd" />
+		</xsd:schema>
+	</wsdl:types>
+	<wsdl:message name="doMTChargingRequest">
+		<wsdl:part element="ctp:doMTChargingRequest" name="parameters" />
+	</wsdl:message>
+	<wsdl:message name="doMTChargingResponse">
+		<wsdl:part element="ctp:doMTChargingResponse" name="parameters" />
+	</wsdl:message>
+	<wsdl:portType name="MTChargingService">
+		<wsdl:operation name="doMTChargingRequest">
+			<wsdl:input message="tns:doMTChargingRequest" />
+			<wsdl:output message="tns:doMTChargingResponse" />
+		</wsdl:operation>
+	</wsdl:portType>
+	<wsdl:binding name="MTChargingServiceSOAP" type="tns:MTChargingService">
+		<soap:binding style="document"
+			transport="http://schemas.xmlsoap.org/soap/http" />
+		<wsdl:operation name="doMTChargingRequest">
+			<soap:operation
+				soapAction="http://ws.cgw.tecnotree.com/MTChargingService/doMTChargingRequest" />
+			<wsdl:input>
+				<soap:body use="literal" />
+			</wsdl:input>
+			<wsdl:output>
+				<soap:body use="literal" />
+			</wsdl:output>
+		</wsdl:operation>
+	</wsdl:binding>
+	<wsdl:service name="MTChargingService">
+		<wsdl:port binding="tns:MTChargingServiceSOAP" name="MTChargingServiceSOAP">
+			<soap:address location="http://200.108.100.19:8080/contentGateway/services/MTChargingService/" />
+		</wsdl:port>
+	</wsdl:service>
+</wsdl:definitions>

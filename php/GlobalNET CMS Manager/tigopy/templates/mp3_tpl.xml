@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mp3>
+    <name>%NOMBRE_CONTENIDO%</name>
+    <provider>%PROVEEDOR%</provider>
+    <royalty>%ROYALTY%</royalty>
+    <cat>%CATEGORIA%</cat>
+    <subcat>%SUBCATEGORIA%</subcat>
+    <code>%CODE%</code>
+    <operator>%OPERATOR%</operator>
+    <searchkeywords>%SEARCH_KEYWORDS%</searchkeywords>
+    <musiclabel>Magenta</musiclabel>
+    <movie>%MOVIE%</movie>
+    <album>%ALBUM%</album>
+    <artist>%ARTISTA%</artist>
+    <wappreview>
+       %WAP_PREVIEW%
+    </wappreview>
+    <webpreview>
+       %WEB_PREVIEW%
+    </webpreview>
+    <objects>
+        %OBJECTS%
+    </objects>
+</mp3>

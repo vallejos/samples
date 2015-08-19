@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<asset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <polyphonic externalId="xxxx-PT-00001">
+    <deployed>false</deployed>
+    <promotiononly>false</promotiononly>
+    <promotionkey></promotionkey>
+    <startDate>2008-12-01T00:00:00.000</startDate>
+    <validUntil>2018-12-31T00:00:00.000</validUntil>
+    <service>S-jUYvW2P1vX1</service>
+    <adult>false</adult>
+    <key>clave01</key>
+    <title>titulo</title>
+    <artist>artista</artist>
+    <tag>rock</tag>
+    <album>album</album>
+    <publicationYear>2009</publicationYear>
+    <description>descripcion</description>
+    <coverART>
+        <variant>
+             <item uri="cover01.jpg" />
+        </variant>
+    </coverART>
+    <polyphonicGT4Prelisten>
+        <variant>
+             <item uri="pre01.mid" />
+        </variant>
+    </polyphonicGT4Prelisten>
+    <polyphonicGT4Premium premiumResource="Poly Download">
+      <variant>
+        <item uri="poly01.mid" />
+      </variant>
+    </polyphonicGT4Premium>
+    <polyphonic4cPremium premiumResource="Poly Download">
+      <variant>
+        <item uri="poly014c.mid" />
+      </variant>
+    </polyphonic4cPremium>
+  </polyphonic>
+</asset>

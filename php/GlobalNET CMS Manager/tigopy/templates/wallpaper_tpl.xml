@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wallpapers>
+  <name>%NOMBRE_CONTENIDO%</name>
+  <provider>%PROVEEDOR%</provider>
+  <cat>%CATEGORIA%</cat>
+  <subcat>%SUBCATEGORIA%</subcat>
+  <code>%CODE%</code>
+  <operator>%OPERATOR%</operator>
+  <royalty>%ROYALTY%</royalty>
+  <searchkeywords>%SEARCH_KEYWORDS%</searchkeywords>
+  <musiclabel>%MUSICLABEL%</musiclabel>
+  <movie>%MOVIE%</movie>
+  <album>%ALBUM%</album>
+  <artist>%ARTISTA%</artist>
+  <providercode>%PROVIDER_CODE%</providercode>
+  <cla>%CLA%</cla>
+  <expirydate>%EXPIRYDATE%</expirydate>
+  <activatedate>%ACTIVATEDATE%</activatedate>
+  <webpreview>
+%WEB_PREVIEW%
+  </webpreview>
+  <wappreview>
+  %WAP_PREVIEW%
+  </wappreview>
+  <objects>
+  %OBJECTS%
+  </objects>
+</wallpapers>

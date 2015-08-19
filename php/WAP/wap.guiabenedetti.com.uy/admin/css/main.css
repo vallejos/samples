@@ -1,0 +1,48 @@
+body { background:#a0a0a0; font-family:Arial, Helvetica, sans-serif; }
+
+#menu { height:30px; line-height:30px; background:#000; font-family: }
+	#menu li { display:inline; margin-left:15px; }
+	#menu a { text-decoration:none; color:#FFF; }
+	#menu .selected { color:#3cc0e6; }
+
+#contenido { width:960px; margin:0 auto; background:#FFF; overflow:hidden; }
+#principal { width:600px; float:left; padding-bottom:30px; }
+
+	/* --------------------------- Clientes --------------------------- */
+	.list_itm { display:block; float:left; padding:8px; margin:5px 0 0 5px; font-size:14px; font-weight:bold; }
+	.list_top { background:#d2d2d2; font-size:11px; font-weight:bold; }
+	.c_id { width:47px; text-align:center; font-size:12px; }
+	.c_nom { width:310px; }
+	.c_acc { width:180px; text-align:center; }
+	.ac_act {}
+	.ac_edi { margin:0 10px; }
+	.ac_del {}
+	ul { display:block; }
+	
+	/* --------------------------- Barrios ------------------+--------- */
+	.b_id { width:47px; text-align:center; font-weight:normal; }
+	.b_bar { width:47px; text-align:center; font-weight:normal; }
+	.b_tit { width:233px; }
+	.b_acc { width:189px; text-align:center; font-weight:normal; }
+	.lista_puntos { clear:left; font-size:12px; }
+	.lista_puntos li { border-bottom:solid 1px #E0E0E0; padding:10px 0 10px 150px; font-weight:bold; width:460px; }
+	.lista_puntos a { font-weight:normal; margin-right:6px; }
+	.lista_puntos strong { font-weight:bold; }
+
+#lateral { width:310px; float:left; background:#e8e8e8; padding:20px; margin-left:10px; min-height:1700px; }
+	#lateral form { display:none; }
+	
+	#barrios_form { display:none; }
+	#punto_img { margin-top:20px; display:none; }
+	#punto_txt { margin-top:20px; display:none; }
+	h3 { font-size:14px; font-weight:bold; margin-bottom:8px; }
+	label { font-size:11px; font-weight:bold; color:#606060; }
+	input[type="text"] { margin:5px 0 20px; font-size:15px; }
+	.btn_enviar { font-size:12px; border:solid 1px #606060; background:#c4c4c4; padding:6px; text-decoration:none; color:#000; }
+	.btn_cancel { font-size:12px; padding:6px; text-decoration:none; color:#606060; }
+	#sidebar strong { font-weight:bold; }
+	
+	#img_preview { width:310px; min-height:150px; background:#FFF; margin-top:5px; border:solid 1px #A5ACB2; }
+	textarea { margin:5px 0 20px; }
+	hr { border:solid 1px #D3D3D3; }
+	

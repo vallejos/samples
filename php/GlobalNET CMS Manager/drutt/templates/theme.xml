@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<asset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <theme externalId="xxxx-TH-00001">
+    <deployed>false</deployed>
+    <promotiononly>false</promotiononly>
+    <promotionkey></promotionkey>
+    <startDate>2008-12-01T00:00:00.000</startDate>
+    <validUntil>2018-12-31T00:00:00.000</validUntil>
+    <service>S-jUYvW2P1vX1</service>
+    <adult>false</adult>
+    <key>clave01</key>
+    <name>nombre del juego</name>
+    <title>titulo</title>
+    <tag>animales</tag>
+    <description>descripcion del tema</description>
+    <themePreview>
+        <variant>
+             <item uri="preview.jpg" />
+        </variant>
+    </themePreview>
+    <themePremium premiumResource="Tema PR">
+      <variant>
+        <device>sonyericsson_k850_drutt</device>
+        <item uri="tema.thm" />
+      </variant>
+      <variant>
+        <device>sonyericsson_k770_drutt</device>
+        <item uri="tema_k770.thm" />
+      </variant>
+    </themePremium>
+  </theme>
+</asset>

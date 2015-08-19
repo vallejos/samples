@@ -1,0 +1,52 @@
+body { margin: 0 auto; background-color: #3a3839; color:#fff;}
+a { font-size:10px; color:#fff; font-weight:normal !important; }
+a img {border:2px;color:#4c88be;}
+
+.seccion td { height:20px; padding:0; width:1%; margin:0; }
+
+td.titulo-seccion { 
+
+	width:100%!important;
+	}
+	
+/*.titulo-seccion { 
+	background-image: url(images/bullet2.gif);
+	background-position:5% 50%; 
+	background-repeat:no-repeat;  
+	color:#fff; 
+	background-color: #f9680f; 
+	font-size:12px; 
+	padding:2px; 
+	padding-left:20px;
+	text-align:left;
+}*/
+.align_left { text-align: left; }
+.align_right { text-align: right; }
+.align_center { text-align: center; }
+.seccion { clear:both;float:none;padding: 5px 0px;  width:100%; margin:0 auto; border-spacing:0px;}
+.clear { clear:both;  }
+
+.list-item {float:left;  width: 65px; font-size:11px;}
+.texto_small { font-size:12px;}
+
+.texto_big { font-size:13px; background-color: #a3238e; color:#fff;width:85%;border:2px solid #6b1880; }
+
+.item-par {float:none; width:inherit; }
+.item-impar {float:none; width:inherit;  }
+.menu-item { width:100%; font-size:11px; }
+.lista-links { padding-left:6px;font-weight:bold; color:#ff8400; font-size:11px;}
+
+#bloque-central {width:#ANCHO_PANTALLA#px; background-color:#000; border-right:0px solid #fff; border-left:0px solid #fff; margin: 0px auto;}
+#titulo-pagina { margin: 2px auto; background-color: #fff;  color:#fff; font-size: 12px; text-align:center; font-weight:bold; }
+#bloque-secciones { font-size:12px;}
+#paginado {  clear:both;font-size:10px;padding:4px; margin:2px; text-align: center; margin-top:3px; color:#fc6e14; font-weight:bold;}
+#pie-movistar { text-align: center}
+#banner-pagina{ padding:0px; margin:0px; overflow:hidden;}
+#banner-pagina img { padding:0px; margin: 0px; margin-bottom:0px; overflow:hidden; }
+#logo-universal {text-align:center; margin:10px auto;}
+.banner {margin:0px auto; text-align:center; padding:0px;}
+.banner-fondo { background-repeat:repeat-x}
+form { display:block; margin:0 auto; width:100%;}
+input, select {margin:2px; max-width:90%;}
+#logo { margin-top: 10px; text-align: center;}
+#logos-abajo{ margin-top: 10px; text-align: center;}

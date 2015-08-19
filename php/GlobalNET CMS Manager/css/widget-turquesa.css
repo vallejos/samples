@@ -1,0 +1,13 @@
+.grf_grafico_barras .grf_barra_porcentaje span,
+.grf_grafico_tarta .grf_barra_porcentaje span {
+	background-color: #227C75;
+}
+#header {
+	background-color: #227C75;
+}
+ul.menu li a.activo {
+	background-color: #227C75;
+}
+#footer {
+	border-bottom: 4px solid #227C75;
+}
